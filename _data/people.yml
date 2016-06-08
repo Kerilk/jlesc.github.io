@@ -1347,6 +1347,15 @@ vazquez_m:
   email: mariano.vazquez@bsc.es
   homepage: https://www.bsc.es/about-bsc/staff-directory/vazquez-mariano
 
+videau_b:
+  sur_name: Videau
+  given_name: Brice
+  affiliation: inria
+  position: post_doc
+  topics: Autotuning, HPC
+  email: brice.videau@imag.fr
+  homepage:
+
 vishwanath_v:
   sur_name: Vishwanath
   given_name: Venkatram
